@@ -71,6 +71,8 @@ for feature, coef in zip(X.columns, model.coef_):
 
 print("Intercept:", model.intercept_)
 
+print("Go Brewers") 
+
 # Plotting the results
 plt.figure(figsize=(10, 6))
 
