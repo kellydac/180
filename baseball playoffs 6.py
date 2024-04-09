@@ -53,3 +53,5 @@ def get_prediction():
 
 # Get prediction for a specific team
 get_prediction()
+
+print("Go Brewers") 
